@@ -16,7 +16,7 @@
   <VCHE_CantPump>送液不可：タンクが満杯です</VCHE_CantPump>
 
   <!-- EN: Deepchem pumpjack can only be placed on the deepchem deposit. Use ground-penetrating scanner to find the deposits. -->
-  <VCHE_CantPlaceHere>配置不可：未精製燃料鉱床上にのみ配置可能です。地中探査機で鉱床を検出してください。</VCHE_CantPlaceHere>
+  <VCHE_CantPlaceHere>配置不可：未精製燃料鉱床上にのみ配置可能です。地殻深部スキャナーで鉱床を検出してください。</VCHE_CantPlaceHere>
 
   <!-- EN: Switches chemfuel flow on/off. -->
   <VCHE_ChemValve>液化燃料弁を操作</VCHE_ChemValve>
