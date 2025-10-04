@@ -1,7 +1,6 @@
-# RimworldTranslationMod
-<!-- # depended mod name(ja-JP) -->
+# Vanilla Chemfuel Expanded(ja-JP)
 
-[depended mod name](https://steamcommunity.com/sharedfiles/filedetails/?id=_workshopnumber_) の自分用日本語化Mod
+[Vanilla Chemfuel Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2792917473) の自分用日本語化Mod
 
 [Extract translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3026452122)で出力したファイルを、GithubCopilot の Agent mode に翻訳させた上で、一部に強めの意訳を施した内容であることを承知の上で使用してください。
 
@@ -28,7 +27,7 @@
 > * Core
 > * DLC群
 > * (翻訳対象がさらに前提としているMod名)
-> * depended mod name
+> * Vanilla Chemfuel Expanded
 > * **本Mod**
 
 ## MID-SAVE
