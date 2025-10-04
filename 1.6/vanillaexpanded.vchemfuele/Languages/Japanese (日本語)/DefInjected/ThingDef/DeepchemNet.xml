@@ -1,44 +1,44 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: deepchem refinery -->
-  <PS_DeepchemRefinery.label>TODO</PS_DeepchemRefinery.label>
+  <PS_DeepchemRefinery.label>未精製燃料精製装置</PS_DeepchemRefinery.label>
   <!-- EN: A complex machine capable of refining deepchem delivered via deepchem pipes into usable liquid chemfuel. If no output is detected fuel will automatically be dispensed into cans. If output is connected to a tank or tap via chemfuel pipes the finished product will be transported as such for storage or dispensing. -->
-  <PS_DeepchemRefinery.description>TODO</PS_DeepchemRefinery.description>
-  
+  <PS_DeepchemRefinery.description>深層化学物質（未精製燃料）を配管で受け取り、可用な液化燃料へ精製する複雑な機械です。出力が接続されていない場合は自動で缶へ分配されます。出力が貯蔵タンクや分配器に接続されている場合は、配管を通じて搬送されます。</PS_DeepchemRefinery.description>
+
   <!-- EN: deepchem tank -->
-  <PS_DeepchemTank.label>TODO</PS_DeepchemTank.label>
+  <PS_DeepchemTank.label>未精製燃料貯蔵タンク</PS_DeepchemTank.label>
   <!-- EN: A heavy industrial sludge storage tank meant for storing deepchem delivered via deepchem pipe network. Tanks can be designated to be siphoned as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within. -->
-  <PS_DeepchemTank.description>TODO</PS_DeepchemTank.description>
-  
+  <PS_DeepchemTank.description>未精製燃料を保管する大型の産業用スラッジ貯蔵タンクです。必要に応じて吸い上げる指定が可能です。軽微な損傷でも漏れた蒸気が急速に爆発性の火球を作り、爆発規模は貯蔵量に依存します。</PS_DeepchemTank.description>
+
   <!-- EN: deepchem drain -->
-  <VCHE_DeepchemDrain.label>TODO</VCHE_DeepchemDrain.label>
+  <VCHE_DeepchemDrain.label>未精製燃料供給ホッパー</VCHE_DeepchemDrain.label>
   <!-- EN: A hopper-like storage basin meant to input deepchem into the network, filling up connected tanks. -->
-  <VCHE_DeepchemDrain.description>TODO</VCHE_DeepchemDrain.description>
-  
+  <VCHE_DeepchemDrain.description>ネットワークへ未精製燃料を供給するホッパー型の投入槽。接続されたタンクを満たします。</VCHE_DeepchemDrain.description>
+
   <!-- EN: deepchem pipe -->
-  <VCHE_DeepchemPipe.label>TODO</VCHE_DeepchemPipe.label>
+  <VCHE_DeepchemPipe.label>未精製燃料配管</VCHE_DeepchemPipe.label>
   <!-- EN: Heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage. -->
-  <VCHE_DeepchemPipe.description>TODO</VCHE_DeepchemPipe.description>
-  
+  <VCHE_DeepchemPipe.description>ポンプジャッキから精製所や貯蔵タンクへと未精製燃料（スラッジ）を運ぶ重厚な鋼製配管です。</VCHE_DeepchemPipe.description>
+
   <!-- EN: deepchem pumpjack -->
-  <VCHE_DeepchemPumpjack.label>TODO</VCHE_DeepchemPumpjack.label>
+  <VCHE_DeepchemPumpjack.label>未精製燃料掘削装置</VCHE_DeepchemPumpjack.label>
   <!-- EN: A deep-crust drilling rig for extracting deepchem from deep under the surface. Use a ground penetrating scanner to detect deposits. Deepchem can then be further refined into usable chemfuel. Can be repositioned freely. -->
-  <VCHE_DeepchemPumpjack.description>TODO</VCHE_DeepchemPumpjack.description>
-  
+  <VCHE_DeepchemPumpjack.description>地中深部から未精製燃料を抽出する深層掘削装置です。地中探査機（スキャナー）で鉱床を検出してください。抽出した未精製燃料は精製して液化燃料にできます。自由に再配置可能です。</VCHE_DeepchemPumpjack.description>
+
   <!-- EN: deepchem tap -->
-  <VCHE_DeepchemTap.label>TODO</VCHE_DeepchemTap.label>
+  <VCHE_DeepchemTap.label>未精製燃料分配器</VCHE_DeepchemTap.label>
   <!-- EN: A hopper-like storage basin meant to hold dispensed deepchem from tanks periodically for use later. -->
-  <VCHE_DeepchemTap.description>TODO</VCHE_DeepchemTap.description>
-  
+  <VCHE_DeepchemTap.description>タンクから定期的に分配された未精製燃料を保持するホッパー型の保管槽です。</VCHE_DeepchemTap.description>
+
   <!-- EN: deepchem valve -->
-  <VCHE_DeepchemValve.label>TODO</VCHE_DeepchemValve.label>
+  <VCHE_DeepchemValve.label>未精製燃料弁</VCHE_DeepchemValve.label>
   <!-- EN: Switches deepchem flow on/off. -->
-  <VCHE_DeepchemValve.description>TODO</VCHE_DeepchemValve.description>
-  
+  <VCHE_DeepchemValve.description>未精製燃料の流れを開閉する弁です。</VCHE_DeepchemValve.description>
+
   <!-- EN: hidden deepchem pipe -->
-  <VCHE_UndergroundDeepchemPipe.label>TODO</VCHE_UndergroundDeepchemPipe.label>
+  <VCHE_UndergroundDeepchemPipe.label>埋設型未精製燃料配管</VCHE_UndergroundDeepchemPipe.label>
   <!-- EN: Hidden heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage. -->
-  <VCHE_UndergroundDeepchemPipe.description>TODO</VCHE_UndergroundDeepchemPipe.description>
-  
+  <VCHE_UndergroundDeepchemPipe.description>埋設型の重厚な鋼製配管で、ポンプジャッキから精製所や貯蔵へ未精製燃料を輸送します。</VCHE_UndergroundDeepchemPipe.description>
+
 </LanguageData>

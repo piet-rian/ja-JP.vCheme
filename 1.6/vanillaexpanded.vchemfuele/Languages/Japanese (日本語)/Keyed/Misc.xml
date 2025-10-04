@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Extract 150 chemfuel -->
-  <VCHE_ExtractChemfuel>TODO</VCHE_ExtractChemfuel>
+  <VCHE_ExtractChemfuel>液化燃料150を取り出す</VCHE_ExtractChemfuel>
   <!-- EN: Extract 150 chemfuel from the tank. A pawn will come to extract it. -->
-  <VCHE_ExtractChemfuelDesc>TODO</VCHE_ExtractChemfuelDesc>
+  <VCHE_ExtractChemfuelDesc>タンクから液化燃料150を取り出します。作業者が来て回収します。</VCHE_ExtractChemfuelDesc>
 
   <!-- EN: Extract 150 deepchem -->
-  <VCHE_ExtractDeepchem>TODO</VCHE_ExtractDeepchem>
+  <VCHE_ExtractDeepchem>未精製燃料150を取り出す</VCHE_ExtractDeepchem>
   <!-- EN: Extract 150 deepchem from the tank. A pawn will come to extract it. -->
-  <VCHE_ExtractDeepchemDesc>TODO</VCHE_ExtractDeepchemDesc>
+  <VCHE_ExtractDeepchemDesc>タンクから未精製燃料150を取り出します。作業者が来て回収します。</VCHE_ExtractDeepchemDesc>
 
-  <!-- EN: Can’t refine: Tanks are full -->
-  <VCHE_CantRefine>TODO</VCHE_CantRefine>
-  <!-- EN: Can’t pump: Tanks are full -->
-  <VCHE_CantPump>TODO</VCHE_CantPump>
+  <!-- EN: Can't refine: Tanks are full -->
+  <VCHE_CantRefine>精製不可：タンクが満杯です</VCHE_CantRefine>
+  <!-- EN: Can't pump: Tanks are full -->
+  <VCHE_CantPump>送液不可：タンクが満杯です</VCHE_CantPump>
 
   <!-- EN: Deepchem pumpjack can only be placed on the deepchem deposit. Use ground-penetrating scanner to find the deposits. -->
-  <VCHE_CantPlaceHere>TODO</VCHE_CantPlaceHere>
+  <VCHE_CantPlaceHere>配置不可：未精製燃料鉱床上にのみ配置可能です。地中探査機で鉱床を検出してください。</VCHE_CantPlaceHere>
 
   <!-- EN: Switches chemfuel flow on/off. -->
-  <VCHE_ChemValve>TODO</VCHE_ChemValve>
+  <VCHE_ChemValve>液化燃料弁を操作</VCHE_ChemValve>
   <!-- EN: Switches chemfuel flow on/off. A pawn will come open/close the valve. -->
-  <VCHE_ChemValveDesc>TODO</VCHE_ChemValveDesc>
+  <VCHE_ChemValveDesc>液化燃料の流れを開閉します。作業者が来て弁を操作します。</VCHE_ChemValveDesc>
 
   <!-- EN: Switches deepchem flow on/off. -->
-  <VCHE_DeepChemValve>TODO</VCHE_DeepChemValve>
+  <VCHE_DeepChemValve>未精製燃料弁を操作</VCHE_DeepChemValve>
   <!-- EN: Switches deepchem flow on/off. A pawn will come open/close the valve. -->
-  <VCHE_DeepChemValveDesc>TODO</VCHE_DeepChemValveDesc>
+  <VCHE_DeepChemValveDesc>未精製燃料の流れを開閉します。作業者が来て弁を操作します。</VCHE_DeepChemValveDesc>
 </LanguageData>

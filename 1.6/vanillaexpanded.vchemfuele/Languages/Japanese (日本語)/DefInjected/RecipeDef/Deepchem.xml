@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: make chemfuel from deepchem -->
-  <VCHE_Make_ChemfuelFromDeepchem.label>TODO</VCHE_Make_ChemfuelFromDeepchem.label>
+  <VCHE_Make_ChemfuelFromDeepchem.label>液化燃料を精製</VCHE_Make_ChemfuelFromDeepchem.label>
   <!-- EN: Make a batch of chemfuel by refining deepchem. -->
-  <VCHE_Make_ChemfuelFromDeepchem.description>TODO</VCHE_Make_ChemfuelFromDeepchem.description>
+  <VCHE_Make_ChemfuelFromDeepchem.description>未精製燃料を精製して、可用な液化燃料を1バッチ生成します。</VCHE_Make_ChemfuelFromDeepchem.description>
   <!-- EN: Refining chemfuel from deepchem. -->
-  <VCHE_Make_ChemfuelFromDeepchem.jobString>TODO</VCHE_Make_ChemfuelFromDeepchem.jobString>
-  
+  <VCHE_Make_ChemfuelFromDeepchem.jobString>未精製燃料を精製中</VCHE_Make_ChemfuelFromDeepchem.jobString>
+
 </LanguageData>

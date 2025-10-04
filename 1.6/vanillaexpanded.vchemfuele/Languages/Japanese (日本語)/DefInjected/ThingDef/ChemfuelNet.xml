@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: chemfuel tank -->
-  <PS_ChemfuelTank.label>TODO</PS_ChemfuelTank.label>
+  <PS_ChemfuelTank.label>液化燃料貯蔵タンク</PS_ChemfuelTank.label>
   <!-- EN: An industrial liquid storage tank meant for storing chemfuel delivered via chemfuel pipe network. Tanks can be designated to be siphoned for usable chemfuel as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within. -->
-  <PS_ChemfuelTank.description>TODO</PS_ChemfuelTank.description>
-  
+  <PS_ChemfuelTank.description>液化燃料を保管する産業用液体貯蔵タンクです。必要に応じてタンクから液化燃料を吸い上げる指定が可能です。少し損傷するだけでも漏れ出した蒸気が急速に爆発性の火球を作り、爆発規模は貯蔵量に依存します。</PS_ChemfuelTank.description>
+
   <!-- EN: chemfuel drain -->
-  <VCHE_ChemfuelDrain.label>TODO</VCHE_ChemfuelDrain.label>
+  <VCHE_ChemfuelDrain.label>液化燃料給液ホッパー</VCHE_ChemfuelDrain.label>
   <!-- EN: A hopper-like storage basin meant to input chemfuel into the network, filling up connected tanks. -->
-  <VCHE_ChemfuelDrain.description>TODO</VCHE_ChemfuelDrain.description>
-  
+  <VCHE_ChemfuelDrain.description>ネットワークへ液化燃料を供給するホッパー型の投入槽。接続されたタンクを満たします。</VCHE_ChemfuelDrain.description>
+
   <!-- EN: chemfuel pipe -->
-  <VCHE_ChemfuelPipe.label>TODO</VCHE_ChemfuelPipe.label>
+  <VCHE_ChemfuelPipe.label>液化燃料配管</VCHE_ChemfuelPipe.label>
   <!-- EN: Steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
-  <VCHE_ChemfuelPipe.description>TODO</VCHE_ChemfuelPipe.description>
-  
+  <VCHE_ChemfuelPipe.description>精製所から貯蔵タンクや消費設備へ可搬な液化燃料を輸送する鋼製配管です。自動給油にも対応します。</VCHE_ChemfuelPipe.description>
+
   <!-- EN: chemfuel tap -->
-  <VCHE_ChemfuelTap.label>TODO</VCHE_ChemfuelTap.label>
+  <VCHE_ChemfuelTap.label>液化燃料分配器</VCHE_ChemfuelTap.label>
   <!-- EN: A hopper-like storage basin meant to hold dispensed chemfuel from tanks periodically for use later. -->
-  <VCHE_ChemfuelTap.description>TODO</VCHE_ChemfuelTap.description>
-  
+  <VCHE_ChemfuelTap.description>タンクから定期的に分配された液化燃料を保持するホッパー型の保管槽です。</VCHE_ChemfuelTap.description>
+
   <!-- EN: chemfuel valve -->
-  <VCHE_ChemfuelValve.label>TODO</VCHE_ChemfuelValve.label>
+  <VCHE_ChemfuelValve.label>液化燃料弁</VCHE_ChemfuelValve.label>
   <!-- EN: Switches chemfuel flow on/off. -->
-  <VCHE_ChemfuelValve.description>TODO</VCHE_ChemfuelValve.description>
-  
+  <VCHE_ChemfuelValve.description>液化燃料の流れを開閉する弁です。</VCHE_ChemfuelValve.description>
+
   <!-- EN: hidden chemfuel pipe -->
-  <VCHE_UndergroundChemfuelPipe.label>TODO</VCHE_UndergroundChemfuelPipe.label>
+  <VCHE_UndergroundChemfuelPipe.label>埋設型液化燃料配管</VCHE_UndergroundChemfuelPipe.label>
   <!-- EN: Hidden steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
-  <VCHE_UndergroundChemfuelPipe.description>TODO</VCHE_UndergroundChemfuelPipe.description>
-  
+  <VCHE_UndergroundChemfuelPipe.description>埋設型の鋼製配管で、精製所から貯蔵や消費設備へ液化燃料を輸送します。</VCHE_UndergroundChemfuelPipe.description>
+
 </LanguageData>
