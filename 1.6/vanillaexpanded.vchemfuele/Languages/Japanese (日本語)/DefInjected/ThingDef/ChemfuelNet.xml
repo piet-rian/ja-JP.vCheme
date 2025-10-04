@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemfuel tank -->
+  <PS_ChemfuelTank.label>TODO</PS_ChemfuelTank.label>
+  <!-- EN: An industrial liquid storage tank meant for storing chemfuel delivered via chemfuel pipe network. Tanks can be designated to be siphoned for usable chemfuel as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within. -->
+  <PS_ChemfuelTank.description>TODO</PS_ChemfuelTank.description>
+  
+  <!-- EN: chemfuel drain -->
+  <VCHE_ChemfuelDrain.label>TODO</VCHE_ChemfuelDrain.label>
+  <!-- EN: A hopper-like storage basin meant to input chemfuel into the network, filling up connected tanks. -->
+  <VCHE_ChemfuelDrain.description>TODO</VCHE_ChemfuelDrain.description>
+  
+  <!-- EN: chemfuel pipe -->
+  <VCHE_ChemfuelPipe.label>TODO</VCHE_ChemfuelPipe.label>
+  <!-- EN: Steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
+  <VCHE_ChemfuelPipe.description>TODO</VCHE_ChemfuelPipe.description>
+  
+  <!-- EN: chemfuel tap -->
+  <VCHE_ChemfuelTap.label>TODO</VCHE_ChemfuelTap.label>
+  <!-- EN: A hopper-like storage basin meant to hold dispensed chemfuel from tanks periodically for use later. -->
+  <VCHE_ChemfuelTap.description>TODO</VCHE_ChemfuelTap.description>
+  
+  <!-- EN: chemfuel valve -->
+  <VCHE_ChemfuelValve.label>TODO</VCHE_ChemfuelValve.label>
+  <!-- EN: Switches chemfuel flow on/off. -->
+  <VCHE_ChemfuelValve.description>TODO</VCHE_ChemfuelValve.description>
+  
+  <!-- EN: hidden chemfuel pipe -->
+  <VCHE_UndergroundChemfuelPipe.label>TODO</VCHE_UndergroundChemfuelPipe.label>
+  <!-- EN: Hidden steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
+  <VCHE_UndergroundChemfuelPipe.description>TODO</VCHE_UndergroundChemfuelPipe.description>
+  
+</LanguageData>

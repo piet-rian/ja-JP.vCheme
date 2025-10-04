@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Extract 150 chemfuel -->
+  <VCHE_ExtractChemfuel>TODO</VCHE_ExtractChemfuel>
+  <!-- EN: Extract 150 chemfuel from the tank. A pawn will come to extract it. -->
+  <VCHE_ExtractChemfuelDesc>TODO</VCHE_ExtractChemfuelDesc>
+
+  <!-- EN: Extract 150 deepchem -->
+  <VCHE_ExtractDeepchem>TODO</VCHE_ExtractDeepchem>
+  <!-- EN: Extract 150 deepchem from the tank. A pawn will come to extract it. -->
+  <VCHE_ExtractDeepchemDesc>TODO</VCHE_ExtractDeepchemDesc>
+
+  <!-- EN: Can’t refine: Tanks are full -->
+  <VCHE_CantRefine>TODO</VCHE_CantRefine>
+  <!-- EN: Can’t pump: Tanks are full -->
+  <VCHE_CantPump>TODO</VCHE_CantPump>
+
+  <!-- EN: Deepchem pumpjack can only be placed on the deepchem deposit. Use ground-penetrating scanner to find the deposits. -->
+  <VCHE_CantPlaceHere>TODO</VCHE_CantPlaceHere>
+
+  <!-- EN: Switches chemfuel flow on/off. -->
+  <VCHE_ChemValve>TODO</VCHE_ChemValve>
+  <!-- EN: Switches chemfuel flow on/off. A pawn will come open/close the valve. -->
+  <VCHE_ChemValveDesc>TODO</VCHE_ChemValveDesc>
+
+  <!-- EN: Switches deepchem flow on/off. -->
+  <VCHE_DeepChemValve>TODO</VCHE_DeepChemValve>
+  <!-- EN: Switches deepchem flow on/off. A pawn will come open/close the valve. -->
+  <VCHE_DeepChemValveDesc>TODO</VCHE_DeepChemValveDesc>
+</LanguageData>
